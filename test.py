@@ -1,5 +1,5 @@
 print("Hello World!")
 print("Say hello back!")
-hello=input("what do you say back?")
-print(hello)
+response=input("what do you say back?")
+print(response)
 print("Goodbye!")
